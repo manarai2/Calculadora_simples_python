@@ -12,23 +12,23 @@
 5. Opção para terminar o uso do código
 
 ## **COMO EXECUTAR .SH**
-1.Salve/clone o repositório localmente
-2.Crie um novo arquivo chamado calculadora.sh:
+1. Salve/clone o repositório localmente
+2. Crie um novo arquivo chamado calculadora.sh:
 
 (Você pode criar esse arquivo no mesmo diretório onde está o calculadora_proj1.py.)
 
-3.Adicione o seguinte conteúdo ao arquivo calculadora.sh:
+3. Adicione o seguinte conteúdo ao arquivo calculadora.sh:
 ```bash
 #!/bin/bash
 python3 calculadora_proj1.py
 ```
-4.Dê permissão de execução ao script .sh:
+4. Dê permissão de execução ao script .sh:
 
 Execute,no terminal do diretório onde está o script e execute:
 ```bash
 chmod +x calculadora.sh
 ```
-5.No terminal, execute:
+5. No terminal, execute:
 ```bash
 ./calculadora.sh
 ```
