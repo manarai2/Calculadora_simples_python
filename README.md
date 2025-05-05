@@ -13,22 +13,14 @@
 
 ## **COMO EXECUTAR .SH**
 1. Salve/clone o repositório localmente
-2. Crie um novo arquivo chamado calculadora.sh:
+2. Copie e cole o arquivo .sh "calculadora.sh" no mesmo diretório onde está "calculadora_proj1.py"
+3. Dê permissão de execução ao script .sh:
 
-(Você pode criar esse arquivo no mesmo diretório onde está o calculadora_proj1.py.)
-
-3. Adicione o seguinte conteúdo ao arquivo calculadora.sh:
-```bash
-#!/bin/bash
-python3 calculadora_proj1.py
-```
-4. Dê permissão de execução ao script .sh:
-
-Execute,no terminal do diretório onde está o script e execute:
+No terminal do diretório onde está o script execute:
 ```bash
 chmod +x calculadora.sh
 ```
-5. No terminal, execute:
+4. No terminal, execute:
 ```bash
 ./calculadora.sh
 ```
